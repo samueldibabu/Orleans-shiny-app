@@ -1,0 +1,10 @@
+name: r_shiny_app
+title:
+username: samuel-dibabu-assefa
+account: samuel-dibabu-assefa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17042059
+bundleId: 11793954
+url: https://samuel-dibabu-assefa.shinyapps.io/r_shiny_app/
+version: 1
