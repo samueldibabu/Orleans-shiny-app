@@ -14,7 +14,7 @@ This project presents an interactive Shiny dashboard for exploring longitudinal 
 ## Live Application
 
 Access the deployed app here:
-https://samuel-dibabu-assefa.shinyapps.io/your-app/
+https://samuel-dibabu-assefa.shinyapps.io/R_Shiny_app/
 
 ## Features
 
